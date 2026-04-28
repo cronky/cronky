@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cronky Ollie Cronk an experienced tech generallist, passionate about sustainability based in the UK
+- 👋 Hi, I’m @cronky Ollie Cronk an experienced tech leader, passionate about sustainability based in the UK now working at [Cronk Advisory](https://cronkadvisory.com)
 - 👀 I’m interested in Pragmatic Technology Strategy and Architecture, Sustainable Technology and Open Source
 - 🌱 I’m currently researching and leading a team on Sustainable Technology and leading on other R&D projects across a range of topics (GenAI, Data Engineering, ESG etc - for example [https://github.com/ScottLogic/InferESG])
 - 💞️ I’m looking to collaborate on Principles and patterns for sustainable technology - in particular working on the [Technology Carbon Standard](https://www.techcarbonstandard.org) | [Github](https://github.com/ScottLogic/Technology-Carbon-Standard)
