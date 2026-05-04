@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cronky Ollie Cronk an experienced tech leader, passionate about sustainability based in the UK now working at [Cronk Advisory](https://cronkadvisory.com)
+- 👋 Hi, I’m @cronky Ollie Cronk an experienced tech leader and enterprise architect, passionate about sustainability based in the UK now working at [Cronk Advisory](https://cronkadvisory.com)
 - 👀 I’m interested in Pragmatic Technology Strategy and Architecture, Sustainable Technology and Open Source
 - 🌱 I’m currently researching Responsible AI and Sustainable Technology and lead on R&D projects across a range of topics (Reference Architecture for AI, Data Engineering, Regenerative Architecture Principles)
 - 💞️ I’m looking to collaborate on Principles and patterns for sustainable technology - in particular working on the Regenerative Architecture Principles
